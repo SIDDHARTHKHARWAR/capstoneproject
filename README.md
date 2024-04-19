@@ -1,23 +1,20 @@
-# Automation Testing Capstone Project
-Create a Testing Framework for Sporty Shoes Website
+# Automated testing is being done on the capstone project.
+To provide a framework for testing the Sporty Shoes website
 
 
-Problem Statement and Motivation Real-Time Scenario:
- Sporty Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
-• Users can view products  , I wrote some functionality for that also .
-• If users want to purchase something, they can first sign up and then log in
-• Users can add multiple items to their cart and do a checkout. 
-• Users have a dashboard that lets them edit their profile, view past purchases, and view their cart 
-• Once users do a checkout, the items are cleared from their cart and an order is generated which is stored in their order history The above application is already functional. What is needed now is to add a testing layer that will ensure that everything is passed through QA.
+Synopsis of the Issue and Current Situation:
+ Sporty Shoes is the name of the website, which includes several features.  For the task, I utilized https://neemans.com/.
+• The user may effortlessly view the products; I've included some features for that as well.
+• Users can add several goods to their cart and complete the checkout process. • If they want to check and buy something, they can first sign up and then log in. 
+• A dashboard is available for them to view, edit, and examine their cart as well as previous purchase histories.
+Upon completing the checkout process, users' cart contents are removed, and an order is created and saved in their order history. The program mentioned above is now operational. The next step is to include a testing layer to make sure everything makes it past quality assurance.
 
-Task:
-The following tasks outline the testing framework creation: 
-1. Add additional code to the original project to add a REST API module. This module will have two API endpoints: 
-• Retrieve the list of all products in the store 
-• Retrieve the list of all registered users
-2. Create Selenium scripts to test all the pages in the web app 
-3. Do unit testing for all the backend classes and methods
-4. Create JMeter scripts to do load testing of the homepage and the product detail page
+Task: The testing framework creation is outlined in the following tasks:
+
+1 To add a REST API module, add further code to the initial project. There will be two API endpoints for this module: 2 Get the list of every item in the store; • Get the list of every user who has signed up.
+3 Make Selenium scripts to test every page of the website application.
+4 Test each and every backend class and method using unit tests.
+5 Write JMeter scripts to test the load on the homepage.
 
 
 
